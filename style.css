@@ -6,7 +6,12 @@ h1  {
     text-align: center;
     font-size: 60px;
     color: azure;
-    background-color: blueviolet;
+    border: 10px solid rgb(0, 0, 0);
+    margin: 10px;
+}
+
+#container {
+    align-items: center;
 }
 
 body {
