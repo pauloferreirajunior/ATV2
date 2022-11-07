@@ -5,11 +5,13 @@
 }
 
 table {
-    color: white;
+    background-color: aquamarine;
     font-family: 'Arial', sans-serif;
     font-size: 25px;
-    padding-left: 60%;
+    padding-top: 1%;
+    padding-left: 61%;
     padding-bottom: 1%;
+
 }
 
 body {
