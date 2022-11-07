@@ -39,6 +39,14 @@ div {
     color: azure;
 }
 
-#container {
+.container {
     align-items: center;
+}
+
+#rodape {
+    font-family: Arial, sans-serif;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    color: white;
+    text-align: center;
 }
